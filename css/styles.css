@@ -1,0 +1,38 @@
+/*https://colorhunt.co/palette/264572*/
+body{
+margin: 0;
+text-align: center;
+}
+h1{
+  margin-top: 0;
+}
+.mountain{
+}
+.top-container{
+  background-color: #ffe268;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+  background-color: #2f5d62;
+  height: 200px;
+  width: 200px;
+}
+.bottom-container{
+  background-color: #ffb037;
+  height: 200px;
+  width: 200px;
+}
+.pro{
+  text-decoration: underline;
+}
+.top-cloud{
+  position: absolute;
+  top: 35px;
+  right:30%;
+}
+.bottom-cloud{
+  position: absolute;
+  left:30%;
+  bottom: 550px;
+}
