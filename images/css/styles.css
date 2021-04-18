@@ -1,0 +1,41 @@
+/*https://colorhunt.co/palette/264572*/
+body{
+margin: 0;
+text-align: center;
+font-family: 'Merriweather', serif;
+}
+h1{
+  margin-top: 0;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+h2{
+font-family: 'Roboto', sans-serif;
+}
+h3{
+  font-family: 'Roboto', sans-serif;
+}
+.mountain{
+}
+.top-container{
+  background-color: #ffe268;
+  position: relative;
+  padding: 100px 0;
+
+}
+.middle-container{
+}
+.bottom-container{
+}
+.pro{
+  text-decoration: underline;
+}
+.top-cloud{
+  position: absolute;
+  top: 35px;
+  right:30%;
+}
+.bottom-cloud{
+  position: absolute;
+  left:30%;
+  bottom: 550px;
+}
