@@ -17,6 +17,7 @@ h2{
   font-family: 'Roboto', sans-serif;
   color: #2f5d62;
   font-weight: normal;
+  padding: 10px 0;
 }
 
 h3{
@@ -37,6 +38,7 @@ hr{
   background-color: #ffe268;
   position: relative;
   padding: 100px 0;
+  margin-bottom: 30px;
 }
 
 .middle-container{
@@ -70,12 +72,12 @@ hr{
 .top-cloud{
   position: absolute;
   top: 35px;
-  right:30%;
+  right:25%;
 }
 
 .bottom-cloud{
   position: absolute;
-  left:30%;
+  left:25%;
   bottom: 650px;
 }
 .me{
@@ -101,6 +103,10 @@ hr{
   text-decoration: none;
   font-family: roboto;
   font-weight: bold;
+}
+.footer-link:hover{
+  color:#ffffff;
+  
 }
 
 .closing-part{
